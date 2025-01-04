@@ -1,2 +1,0 @@
-# clinic-website
-clinic-website
